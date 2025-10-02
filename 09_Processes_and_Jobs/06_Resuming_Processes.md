@@ -6,7 +6,7 @@ Suspend the run program to the background and continue it using `fg` to get the 
 **Flag** `pwn.college{wK0jhYRfAqNswQcakduuq-A44Yr.QX2QDO0wCO2gjNzEzW}`
 - We need to press CTRL+Z when we run `/challenge/run` to suspend the process and then type `fg` to resume it
 
-```
+```bash
 /challenge/run #press ctrl+z
 fg
 ```

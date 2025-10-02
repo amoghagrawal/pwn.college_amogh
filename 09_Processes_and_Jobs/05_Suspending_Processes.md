@@ -7,7 +7,7 @@ Suspending the process to the background to obtain the flag
 - The challenge requires us to be running two instances of `/challenge/run`
 - We can do that using Ctrl+Z to suspend the process but keep it running in the background
 
-```
+```bash
 /challenge/run #press ctrl+z then
 /challenge/run
 ```

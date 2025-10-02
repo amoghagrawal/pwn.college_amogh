@@ -7,7 +7,7 @@ To get the flag, we must send a background process to the foreground
 - We first suspend the initial process and resume it into the background with `bg`
 - We then move the background process into foreground with `fg`
 
-```
+```bash
 /challenge/run #press ctrl+z
 bg
 fg
